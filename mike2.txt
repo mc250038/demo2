@@ -1,0 +1,11 @@
+ Volume in drive C is OS
+ Volume Serial Number is 8A12-BA2C
+
+ Directory of C:\Users\mc250038\demo_git
+
+04/18/2018  07:56 AM    <DIR>          .
+04/18/2018  07:56 AM    <DIR>          ..
+04/18/2018  08:09 AM               392 mike1.txt
+04/18/2018  08:09 AM                 0 mike2.txt
+               2 File(s)            392 bytes
+               2 Dir(s)  12,459,233,280 bytes free
