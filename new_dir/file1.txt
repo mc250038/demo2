@@ -1,0 +1,5 @@
+total 4
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+drwxr-xr-x 1 mc250038 1049089 0 Apr 18 14:13 ./
+-rw-r--r-- 1 mc250038 1049089 0 Apr 18 14:13 file1.txt
+drwxr-xr-x 1 mc250038 1049089 0 Apr 18 14:13 ../
